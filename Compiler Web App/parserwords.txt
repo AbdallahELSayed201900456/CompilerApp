@@ -1,0 +1,17 @@
+Integer 1
+SInteger 1
+Character 1
+String 1
+Float 1
+SFloat 1
+Void 1
+ID 2
+comma 3
+simicolone 4
+Braces 5
+Assignment 7
+Loop 8
+Return 9
+Break 9
+Struct 9
+Inclusoin 9

@@ -1,0 +1,40 @@
+If Condition
+Else Condition
+Iow Integer
+SIow SInteger
+Chlo Character
+Chain String
+Iowf Float
+SIowf SFloat
+Worthless Void
+Loopwhen Loop
+Iteratewhen Loop
+Turnback Return
+Stop Break
+Loli Struct
++ Arithmetic Operation
+- Arithmetic Operation
+* Arithmetic Operation
+/ Arithmetic Operation
+&& Logic Operation
+|| Logic Operation
+~ Logic Operation
+== relational operation
+> relational operation
+< relational operation
+!= relational operation
+>= relational operation
+<= relational operation
+= Assignment
+-> Access Operator
+{ Braces
+} Braces
+[ Braces
+] Braces
+( Braces
+) Braces
+" Quotation Mark
+' Quotation Mark
+Include Inclusoin
+; simicolone
+, comma
